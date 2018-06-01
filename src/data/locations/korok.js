@@ -1709,4 +1709,38 @@ export default [
       "coordinates": [47.100044694025215, 14.370117187500002],
       "instructionType": 1
     },
+    
+    // New
+    {
+      "coordinates": [70.78919758496981, -64.71633911132812],
+      "instructionType": 0
+    },
+    {
+      "coordinates": [70.26180008033117, -68.51760864257814],
+      "instructionType": 0
+    },
+    {
+      "coordinates": [68.890396017978, -68.35204124450685],
+      "instructionType": 0
+    },
+    {
+      "coordinates": [72.0427386989714, -66.85790061950685],
+      "instructionType": 0
+    },
+    {
+      "coordinates": [70.15077111324061, -62.90282249450684],
+      "instructionType": 0
+    },
+    {
+      "coordinates": [69.35351547350146, -60.9488868713379],
+      "instructionType": 0
+    },
+    {
+      "coordinates": [68.78060258670433, -68.59854698181154],
+      "instructionType": 0
+    },
+    {
+      "coordinates": [72.12804164396903, -64.33327674865724],
+      "instructionType": 0
+    },
   ];
